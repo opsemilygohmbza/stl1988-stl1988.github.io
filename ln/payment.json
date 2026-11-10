@@ -1,7 +1,0 @@
-{
-    "callback": "https://stl1988.github.io/ln/payment-callback.json",
-    "maxSendable": 10000,
-    "minSendable": 1,
-    "metadata": "[[\"text/plain\", \"lorem ipsum blah blah\"]]",
-    "tag": "payRequest"
-}

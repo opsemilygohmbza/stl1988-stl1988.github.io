@@ -1,8 +1,0 @@
-{
-    "tag": "withdrawRequest",
-    "callback": "stl1988.github.io/ln/withdraw-callback.json",
-    "k1": "ggggg",
-    "defaultDescription": "This is a test.",
-    "minWithdrawable": 0,
-    "maxWithdrawable": 10000000000
-}

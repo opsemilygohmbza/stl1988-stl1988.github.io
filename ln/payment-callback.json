@@ -1,4 +1,0 @@
-{
-    "pr": "", // bech32-serialized lightning invoice
-    "routes": [] // an empty array
-}
